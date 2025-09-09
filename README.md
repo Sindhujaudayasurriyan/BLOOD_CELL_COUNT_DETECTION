@@ -28,7 +28,7 @@ Tool: Google Colab
 
 # 📂 Dataset
 
-Contains microscope images labeled with red blood cells, white blood cells, and platelets.
+Contains microscope images labeled with red blood cells and white blood cells.
 
 # ⚙️ Workflow
 
